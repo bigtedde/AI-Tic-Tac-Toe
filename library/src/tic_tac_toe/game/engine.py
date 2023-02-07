@@ -39,5 +39,3 @@ class TicTacToe:
             return self.player1
         else:
             return self.player2
-
-ß
