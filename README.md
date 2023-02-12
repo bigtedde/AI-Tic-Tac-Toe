@@ -28,3 +28,12 @@ Next step: implement the AI functionality
 
 
 
+Minimax algorithm has been implemented, as well as adding in the corresponding player. Project complete.
+
+To play versus the unbeatable minimax player, start at ../frontend and enter the command:
+
+python3 -m console -X human -O minimax
+
+Understand that you will never win, although you may occasionally tie! :)
+
+-Ted Lawson 2/12/23
